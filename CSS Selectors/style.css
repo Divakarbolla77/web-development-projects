@@ -1,0 +1,18 @@
+*{
+    text-align:center;
+}
+ol{
+    margin-left:-40px;
+    margin-top:-20px;
+    List-style-position:inside;
+}
+.abcd{
+    color:red;
+}
+#ab{
+    color:violet;
+
+}
+.note{
+    color:aqua;
+}

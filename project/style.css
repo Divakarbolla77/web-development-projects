@@ -1,0 +1,15 @@
+*{
+    background-color:black;
+}
+.photo{
+    width:50%;
+    margin-left:25%;
+    margin-top:100px;
+    color:white;
+    text-align:center;
+}
+.my-image{
+    border:5px solid white;
+    width:100%;
+
+}
